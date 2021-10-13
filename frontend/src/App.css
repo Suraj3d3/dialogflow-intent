@@ -1,0 +1,30 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.intentDiv {
+  min-height: 150px;
+  /* width: 80%; */
+  background-color: rgb(47, 60, 75);
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 30px;
+  margin: 25px 0;
+  border-bottom: #333 2px solid;
+  border-radius: 6px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intentDetails {
+  font-size: 18px;
+}
